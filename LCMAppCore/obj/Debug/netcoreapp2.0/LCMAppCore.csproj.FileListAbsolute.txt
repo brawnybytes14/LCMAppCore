@@ -1,0 +1,12 @@
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\bin\Debug\netcoreapp2.0\LCMAppCore.deps.json
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\bin\Debug\netcoreapp2.0\LCMAppCore.runtimeconfig.json
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\bin\Debug\netcoreapp2.0\LCMAppCore.runtimeconfig.dev.json
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\bin\Debug\netcoreapp2.0\LCMAppCore.dll
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\bin\Debug\netcoreapp2.0\LCMAppCore.pdb
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\obj\Debug\netcoreapp2.0\LCMAppCore.csprojAssemblyReference.cache
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\obj\Debug\netcoreapp2.0\LCMAppCore.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\obj\Debug\netcoreapp2.0\LCMAppCore.AssemblyInfoInputs.cache
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\obj\Debug\netcoreapp2.0\LCMAppCore.AssemblyInfo.cs
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\obj\Debug\netcoreapp2.0\LCMAppCore.dll
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\obj\Debug\netcoreapp2.0\LCMAppCore.pdb
+C:\Users\Rohit\source\repos\LCMAppCore\LCMAppCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
